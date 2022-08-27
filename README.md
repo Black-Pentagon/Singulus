@@ -1,4 +1,4 @@
-## Singulus
+# Singulus
 
 An Android App for class attendance, timetable and event updates.
 
@@ -9,13 +9,13 @@ There is still a gap between teachers and students.
 
 So, the idea is to integrate the whole institute with one app, which is less time consuming, technologically secured and very dynamic. It would help teacher to take attendance quicker than primitive pen paper method. A dynamic timetable where,swap in lectures and classrooms can be updated momentarily. Teachers can update about upcoming event, exam schedules etc to chosen student body.
 
-# Functionalities
+## Functionalities
 - Single click attendance 
 - Quick timetable updation 
 - Levelized access to application 
 - Section for institution news
 
-# Future Updates:
+## Future Updates:
 - Graphical representation of data  
 - Ability to upload daily class notes and agenda
 - Expanding to more platforms (Windows, Web, iOS)
